@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, this RICHARD MENSAH
 
 <!--
 **Richard-Mensah/Richard-Mensah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="">Hello 👋, I'm RICHARD MENSAH </h1>
+<h3 align="">A passionate Data Analytics Professional and Machine Learning Engineer.</h3>
