@@ -2,7 +2,7 @@
 [![Articles](https://img.shields.io/badge/MEDIUM-Articles-purple?logo=Medium)](https://medium.com/@richmensah1997)
 <a href="mailto:richmensah1997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a> [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/richard-mensah-ab8564190/)
-    [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Contact-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+233240567894) [![Call Badge](https://img.shields.io/badge/Call-Phone%20Number-007BFF?style=for-the-badge&logoColor=white)](tel:+233240567894/+233549789621)
+    [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Contact-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+233240567894) 
 
 
 <!--
