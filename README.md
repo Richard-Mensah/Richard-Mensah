@@ -19,12 +19,13 @@
 ![ezgif com-crop (4)](https://github.com/ikoghoemmanuell/ikoghoemmanuell/assets/102419217/bcd5d802-dc77-4994-86a6-f5ccb46cc145)
 
 <h1 align="">Hello 👋, I'm RICHARD MENSAH </h1>
-<h3 align=""> I am passationate Data Analytics Professional with interest in Machine Learning</h3>
+<h2 alighn= ""> ALX Data Sciene Student Funded by MasterCard </h2>
+<h3 align=""> I am passationate Data Scientist with interest in Machine Learning and using</h3>
+<h3 align=""> 
 
-🌱As an Organizational and Industrial Psychology student with Business Development skills, I aim to apply psychological principles and strategies to enhance workplace productivity, efficiency, and employee well-being, boosting your organization's performance.
+🌱Also, I am Organizational and Industrial Psychology student with Business Development skill and I aim to apply psychological principles and strategies to enhance workplace productivity, efficiency, and employee well-being, boosting your organization's performance.
 
-🔭👋 I’m currently working on my capstone project to complete Azubi Africa's Data Analytics Professional Certification to begion my career in this tech field.
-
+🔭👋 I completed a capstone project at Azubi Africa's Data Analytics Professional Certification program and emerged as one of the best graduates.
 
 ## 👯 My projects & Porfolios
 - [View & Read](https://github.com/Richard-Mensah/Sepsis_Classification_Machine_Learning_API_using_FastAPI) **Sepsis Prediction with ML and FastAPI**
