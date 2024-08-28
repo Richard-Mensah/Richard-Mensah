@@ -19,7 +19,7 @@
 ![ezgif com-crop (4)](https://github.com/ikoghoemmanuell/ikoghoemmanuell/assets/102419217/bcd5d802-dc77-4994-86a6-f5ccb46cc145)
 
 <h1 align="">Hello 👋, I'm RICHARD MENSAH </h1>
-<h2 alighn= ""> ALX Data Sciene Student Funded by MasterCard </h2>
+<h2 alighn= ""> DATA SCIENCE || MACHINE LEARNING || AI || FULL STACK WEB DEVELOPMENT 🔭</h2>
 <h3 align=""> I am passationate Data Scientist with interest in Machine Learning and using</h3>
 <h3 align=""> 
 
