@@ -2,7 +2,7 @@
 [![Articles](https://img.shields.io/badge/MEDIUM-Articles-purple?logo=Medium)](https://medium.com/@richmensah1997)
 <a href="mailto:richmensah1997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a> [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/richard-mensah-ab8564190/)
-    [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Contact-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+233240567894) 
+    [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Contact-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+447388160797) 
 
 
 <!--
@@ -18,7 +18,7 @@
 
 ![ezgif com-crop (4)](https://github.com/ikoghoemmanuell/ikoghoemmanuell/assets/102419217/bcd5d802-dc77-4994-86a6-f5ccb46cc145)
 
-<h1 align="">Hello 👋, I'm RICHARD MENSAH </h1>
+<h1 align="">Hello 👋, RICHARD MENSAH </h1>
 <h2 alighn= ""> DATA SCIENCE || MACHINE LEARNING || AI || FULL STACK WEB DEVELOPMENT 🔭</h2>
 <h3 align=""> I am passationate Data Scientist with interest in Machine Learning and using</h3>
 <h3 align=""> 
