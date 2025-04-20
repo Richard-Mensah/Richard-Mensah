@@ -20,7 +20,7 @@
 
 <h1 align="">Hello 👋, RICHARD MENSAH </h1>
 <h2 alighn= ""> DATA SCIENCE || MACHINE LEARNING || AI || NLP 🔭</h2>
-<h3 align=""> I am passationate Data Scientist with interest in Machine Learning and using</h3>
+<h3 align=""> I am passationate Artificial Intelligencce and Data Scientist with interest in Machine Learning and NLP</h3>
 <h3 align=""> 
 
 🌱Also, I am Organizational and Industrial Psychology student with Business Development skill and I aim to apply psychological principles and strategies to enhance workplace productivity, efficiency, and employee well-being, boosting your organization's performance.
